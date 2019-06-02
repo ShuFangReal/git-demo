@@ -11,6 +11,8 @@
 	
 	然后`git clone xxx.git`
 	
+	/**这是舒放改过的地方/
+	
 3. 添加文件到暂缓区
 	* 	`git add filename`	用于将文件添加到缓冲区。
 	* 	`git status` 查看缓冲区状况。
